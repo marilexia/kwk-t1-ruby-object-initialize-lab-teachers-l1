@@ -14,6 +14,7 @@ class Dog
 
   def breed=(default_breed)
     @breed = "Mutt"
+  end
 
   def name
     @name
