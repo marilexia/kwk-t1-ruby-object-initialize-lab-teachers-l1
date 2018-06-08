@@ -16,7 +16,7 @@ class Dog
     @name
   end
 
-  def breed(Mutt)
+  def breed
     @breed
   end
 
